@@ -121,7 +121,7 @@
     {
       "name": "Susan",
       "species": "porcupine",
-      "diet": "",
+      "diet": "herbivore",
       "personalityTraits": [
         "sexy"
       ],
@@ -130,11 +130,21 @@
     {
       "name": "Oscar",
       "species": "dingo",
-      "diet": "ominvore",
+      "diet": "omnivore",
       "personalityTraits": [
         "thirsty"
       ],
       "id": "13"
+    },
+    {
+      "name": "Oswald",
+      "species": "Penguin",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
