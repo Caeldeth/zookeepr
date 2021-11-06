@@ -108,6 +108,33 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Susan",
+      "species": "porcupine",
+      "diet": "",
+      "personalityTraits": [
+        "sexy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Oscar",
+      "species": "dingo",
+      "diet": "ominvore",
+      "personalityTraits": [
+        "thirsty"
+      ],
+      "id": "13"
     }
   ]
 }
